@@ -1,1 +1,1 @@
-First try at some simple MPI programming in C++
+First try at some simple MPI programming in C++ to find norm square of a vector
